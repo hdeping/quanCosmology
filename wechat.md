@@ -468,6 +468,40 @@
 
 公号里的视频是看不了的，可以试试如下链接: https://mp.weixin.qq.com/s?__biz=MzUyMjc4OTM2Nw==&mid=2247483849&idx=1&sn=9852305dc5e8693a20b38cbc15ebbfaa&chksm=f9c7c951ceb0404750e570fc47d051d7b47184a2db6d8299d348741d91c7627df4cf43c76012&token=92977254&lang=zh_CN#rd
 
+# 百度知道问答一
+
+这几年在百度知道的问答上着实花费了一些功夫，每次看到自己敲的公式比别人的文字描述更加清晰，心里莫名地畅快。解决一些小数学题是有瘾的，难度不太大，但又不十分容易，还可以帮助到别人，一举多得。恰逢这几天不知道自己的个人公众号应该写些什么东西，不妨从自己这些做了哪些事情出发，把一些自己花费的功夫整理成文是有点意义的。这个百度知道系列不知道不会太长，值得整理的问答能有二十个？或者更多，也许下一篇心血来潮把所有值得分享的答案都放在一篇文章呢。不做多想，今天试水，放两个有点意思的问题（或者没什么意思）。
+
+## 1.
+
+已知点A(3,0),B(0,3根号3),C(-3,0),△ABC外接圆为圆D,圆D方程x²+(y-√3)²=12
+设直线L1:y=根号3m(x+3)与直线L2:y=根号3(nx-1)的交点为P,且点P在圆D上
+若m>0,n>0,求证：mn+m-n为常数。
+
+并求出该常数。
+
+
+
+答案就以一张图片呈现
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppzHLeBhJylAg2MibqticfBVXevcmViaX9nIsVx8gNnHAHw7FPPJWsDM7bDoKO7iaDFvoh1bjfI290iaag/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+## 2. 
+
+问题如下图
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppzHLeBhJylAg2MibqticfBVX3aChb0ibrAqVYiadyuvGRd7keHp9BLyFBbd6PAmsKOLlk7XbxSNLGf2Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+最喜欢这种简单粗暴的解方程问题了，看着这些毫无章法的数字大概可以猜测使用解析推倒不大可能，只能通过计算机解决，图示如下：
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppzHLeBhJylAg2MibqticfBVXbKvq3oWzqGlku1yHbkALOYqtmrzIPudiba2DW0tsuKFArS3hjKl2WaA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+这是第一篇，接下来应该还会有几篇。这一系列结束之后或许会写一写初高中时候曾经痴迷的一些数学问题。
+
 # 彷徨随想（一）
 
 快一年没有更新公众号，其实想写的东西有很多，只是“欲辨已忘言”。今天准备开一个全新的系列，彷徨随想。我自己上本科的时候，“随想”是mp3里的一个歌单。开始使用印象笔记时，“随想”是第一个笔记本。如今，随想之余，多了彷徨。这个系列不知道会写多长，这是最后一篇也不一定。但是，我还是给自己定下一个小目标，36篇，

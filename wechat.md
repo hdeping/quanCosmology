@@ -262,7 +262,7 @@
 
 
 
-**沿途风光**
+## **沿途风光**
 
 有几次路过一些池塘，通过合影的方式承包了。。。 
 
@@ -295,6 +295,102 @@
   愿生命不息，折腾不止
 
 ![img](https://mmbiz.qpic.cn/mmbiz_gif/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBnvu9tLlrbAibVpLtdTtpeD6fiafhl17oS2sTVcxo05OP6UQ9uXGOpibJg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+# 动物与自由
+
+学习摄影以来，图片的风格偏好经历了很多次变化，最开始喜欢对称构图，喜欢拍摄水天相接的场景；后来看了众多文章之后刻意用三分之一构图。拍摄内容方面一开始痴迷天空的风景，云或者晚霞；后来拍过建筑，拍过花草，小痰盂入手后喜欢用大光圈拍摄美食和小物件。这些东西都是死的。于是我一度认为自己的图片没有温度，没有太大“意思”。要想拍出有温度的作品，必须要尝试拍活物，拍人最佳，但是苦于找不到合适的、愿意配合的模特，于是拍摄了不少动物。
+
+今天要讲讲这几年拍摄的一些动物。
+
+## 01 跳不出的樊笼
+
+
+
+小时候想去动物园看动物，这或许是大多数小朋友的愿望之一，希望去看小象长不长蛀牙，长颈鹿怎么做眼保健操。然而整个童年都没有去过动物园，随着年龄增长，去动物园的想法也随风消散。第一次去动物园是跟D君（此君吹牛B着实一绝），具体为什么去已经记不清楚，没有想到的是自己竟然童心未泯，看得不亦乐乎。当时并没有开始学摄影，用手机拍摄的图片简直不能看。
+
+印象最深的是第三次去。当时带着长焦，拍下了一些画面，顿时对于这些动物的处境十分同情，丝毫没了在动物园里闲逛的心情。在后来整理图片素材的过程中，特地将图片处理成黑白，不管别人评价如何，这一组图片是我自己十分满意的。我觉得这是我自己第一次不再执着于炫酷的色彩，并且希望通过图片去表达对自由的渴望。
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblByW2K4EsUKZ7uR6Gu3VD0nPS32U7vB3Dl68StTw6ibSZjZHTZ3yQibJXIw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+当时看见这只黑猩猩时，悲情的同时不禁脑洞大开，不知道是否有另一个维度的生命在看着他们饲养在地球上的可怜生命。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblBygl0miaATjj1CXwWUELOy6XrpoRQia3dJP9cZDibiapP0pyMw7on9U4NibOQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblBypMIVxibM5987XiaQMgjWZ7uRSGyCaxA4jsoBHCswERB0T1lWFhEUScVQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+看到鸵鸟时，心情更加沉重，栅栏内十分脏，鸵鸟的全身毛发沾满了各种黑色颗粒，密集恐惧症顿时发作，浑身起鸡皮疙瘩。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblBylSJzoWgsDb1vMr8fQWP6iawwNaGbde75kTzrNhibfsI7oQBHcKgFXtgQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+个人最喜欢这张照片，不知道小猴子在想些什么呢？拍摄这张照片时，这只猴子不知道为什么兴奋，在护网上跳来跳去，惹得老人小孩哈哈大笑，当时应该拍一个全景，人们哈哈大笑，小猴子眼神木然，画面也许更有冲击力。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblBya61PmFeNHwSsF9SNZNlxhKib8IohVRlgEk4qia2MnPDELiaGwORBSibyjg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblByeY870BU4tvZUUnsiarxTbPu1naWHhIo9vaQ9WtE2OqosicvfNSDb9zFA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+我不知道人类是否可以读懂动物们的眼神。我那时候才知道眼神是画面的焦点，所有的情绪都通过眼神传达。圈栏里的小可怜们了无生气，无精打采，与此相对应的眼神不会是开心吧。真希望有一天去非洲大草原见识真正的动物。
+
+## 02 自由的夺目光彩
+
+
+
+见过了身在樊笼中的无趣动物之后，我才发现能够自由奔跑飞翔的动物是何其精彩。
+
+有呆萌的海豹
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblByI8A2XpwpQo5fBneNUicWaMvG7mlwyGgbJfRexzX3hrNgoX8f9yt1mJQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+有温柔的猫咪
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblBySSkQfaXLxY9YsExURSlicIvYAWNVQlR2NWTBx5YasO41Co5fF9LbZdg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblBy4icCfhI51hw9IuhHb89oyGlAibN0ET1foHgnsNzhEkp5Snib1icbgVSrSA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblByH2bPUyJfLYIB2ktZjdwFOSqKazvn8zjHvJOjn91WeKYyMrHTO7PAyg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblByZukzPyPLjJThsru20vLc77UwbEib2r9KpcQaDGhhiaDibsmtKAmG9SxZA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+有优雅的天鹅
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblByzqcKial7r01GI5gTIkhuN5ECAISjMKdzsJT1EIWG17IbhP9ZV0fqs0g/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+有慵懒的呱儿子
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblBylBO0ktyp2heJL3sxYH8J9xWia5h34fyRibib1e0qPI1VNuxZosgoeQDibg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+还有自带嘲讽表情的中华田园汪
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblByCx6anWm6zVaKM8sMBSZ87D4QGhjW5Qias7bQAcuWpx923cnK1eI05eg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+最后，最欣赏这只神骏的雄鹰。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppLHmL1RCgib46dbMr0CblByL9voHrYgS2I1khud93mfzEac48VLiaFPS7smxsUfW4Pjia8q2GVC3DicA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+不自由，毋宁死。
+
+## **灵机一动**
+
+愿追求自由的贼心不死。
 
 # 彷徨随想（一）
 

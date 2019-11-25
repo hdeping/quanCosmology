@@ -168,6 +168,82 @@
 
 愿生命中花开常在。
 
+“纸间的折痕，是指尖的哲思”
+
+我们是平凡人，可总有些时候，我们希望自己是不凡的。所以，有一门兴趣爱好十分重要，最好可以伴随自己足够长时间，沉浸与热爱可以让一个人绽放光芒。我曾经不止一次地听人说，他们被外国朋友问到“what's your hobbie?”时一脸懵逼，或者是在填写简介时遇到“兴趣/爱好"这个项目时苦思冥想。通常人们希望成为有趣的人，我想有趣的标准是会点什么东西，不能是太没有门槛的，太多人在“兴趣”一栏中填上“旅行和阅读”，以至于我遇到这样的简介绝不会在心中对这个人留下多高的评价。张岱说“人无癖不足与之交”，我因此告诫自己一定要有些话题自己能够跟人聊得唾沫横飞，能够神采飞扬，这些话题就是通常所说的兴趣爱好。借用一下李笑来的话，“七年就是一辈子”，今天聊聊自己上辈子的兴趣：折纸。
+
+
+
+## 01 我与折纸
+
+
+
+2011年秋，无意间在L君的电脑屏幕上看到一张复杂的正方形图形，各种线条错综复杂地堆在一起。L君得意洋洋地对我说：“这是神谷哲史寄居蟹的折纸CP图！”。什么？折纸？难道除了用来给小朋友折出千纸鹤，还能干别的？经过一番搜寻，着实吓一大跳，天上飞的，地上跑的，水里游的，甚至各种玄幻生物，都可以通过一张正方形纸经过有限次的折叠得到。第一次的欢喜是奇妙的，一扇大门在向我打开。
+
+经过一个月的努力，终于在教程的帮助下，完成了第一个较为复杂的模型---神谷的天马。总共120步左右，期间克服了各种细节上的困难，印象深刻的是当时把教程图片放在一个5寸电阻屏MP4上，遇到问题往往折腾一两天时间。就这样，磕磕绊绊地，那一个学期时间我完成了好几十个模型。一开始的热情逐渐退却，再加上当时是大三上学期，开始考虑未来的计划，不再有那么多的时间，折纸被我慢慢放下来。当然，另外一方面，随着技巧越来越熟练，不够复杂的模型已经没有挑战，超级复杂的又找不到教程可以实现，慢慢地便放弃了。
+
+直到大四下学期，去向已定，开始有两三个月时间可以花，学了七阶魔方并且放出豪言壮语“给我足够时间，可以解决任意阶魔方的复原问题”（有点着魔了）之后，开始重新捡起一年多以前没有完成的一些折纸模型。那是2013年，从那过后再也没有花费一两个月时间专门折腾一两个折纸模型，时间不多，自控力也不够，总有更加紧迫或者更加新鲜的事情要做。
+
+当然，也有一个比较深层的原因，我想设计自己的折纸模型，不想再跟着别人的路走。大概在2014年，我知道了折纸模型的设计可以通过算法辅助，然而并没有充分的时间去研究算法，这一耽搁就是到了现在。
+
+从2011到2018，七年时间，这期间发生过很多事情，有小成功，也有大失败，每隔半年时间都会找出一点时间静静地折纸，这是一种很好地跟自己相处的方式，我以后还会坚持吧，这是为数不多的初心之一。但我知道这五年多我都没有找出足够多的时间去研究设计算法，我以后也不会找到这样的时间，除非我改变思路，不寻求一整块的时间而是每周找出一点时间去研究，这样才更有实践意义。
+
+学习折纸我不后悔，但是我有一个最大的遗憾是没有找到一个同样痴迷折纸的好朋友，虽然现在学校里有折纸社团，但是两次活动参加下来发现跟他们不是一路人。
+
+## 02 我的折纸
+
+最早的作品已经找不到图片了。那时候还没有喜欢上摄影，甚至也不会想到有一天自己会痴迷上摄影，同样也没有足够的文字记录，以至于自己对那时候的生活和精神状态都没有太大的印象。以下的图片来源于去年的一些成果。
+
+目前为止最擅长的可能还是玫瑰，这种玫瑰可能折了两三百个？具体没有统计过。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBUgiawUYPfO6olouxaHUQXVHSmmYaJSecQib0oGfb7srrMgLJiaOibmbgDA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+除了玫瑰之外，其他的花会的不多，因为大多数需要多张纸组合，总不是很喜欢这种折纸方式。以下的莲花是用八张小纸条组合成的，背景是电脑屏幕上放的壁纸。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBbg6S4AZ0iclibx0BNI12esBTeOCnOSq3RfMxlG2rgsibkvcFheRxz2mLA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+折过的马倒也不少，有带翅膀的，也有不带翅膀的，但是大多被我丢掉，纸张这种东西不容易保存。以下的作品是第一次参加折纸社团活动做的，鬃毛部分没有处理好。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBiaMqcpibyJ7bibbVK35xACOq6SRqz3z3qSDGmxsPZEiccaQbibXtgiaPiaBBQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+学会了摄影之后，以前会的折纸就有了全新的展示方式。通常折纸作品都比较小巧，配合一些背景或者其他折纸，可以拍出一些有点意思的图片。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBdoLicoKgEFN1WcpcoW1aFe0ud4STf55xlibyxliaX0ECZicwdU9GdHyu7w/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBT7PADz1aoYsVTnCaRplxJ232R7NMwjSUR6smccTvT1ONveibXpHvicIg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+折纸中的昆虫门类通常比较困难，因为昆虫有三对角，有时候会有触角，通常都很细，然而在折纸实现中这些地方会重叠好几层，很难处理得很细。以下的天牛不算很成功。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBM9ic7VkzLHseQsqjoVb5YicE21CwTKGsWycfN5iaYiaoyYmQnicYrzZ5TJw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+去年R君来找我，一起逛了地质博物馆。等他走后便想送他一个小礼物，他喜欢骑行，于是决定送他这个“天马骑士”。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBnt9JE8QB5ibrsMczVibCFna7ZfyAqdr73VD544F1cAP0sGTEVr6vnV3w/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bB4OTesUOy0w1s91yFMcsggeMo6RUGyq0MP4gibEJeYzvhWRYYGvoGYYg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+以前不会摄影，大多数成品都没有图片留下来，尤其可惜的是以前通过组合的方式折过一整个霸王龙骨架，但是现在这只能在自己的回忆里。以下是去年的作品集合。中间那个鬼东西原形是迪迦奥特曼当中的怪兽的巴尔坦星人，据说日本人害怕小龙虾，这个怪兽的原型就是小龙虾。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBrCUko5mnedM2dZ2k4DMPRBZdpmbTFibUgQibfgpx2SacyIIZQQ1OELcA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+## 灵机一动
+
+   愿自己独处时，除了手机之外，还有别的。
+
 # 彷徨随想（一）
 
 快一年没有更新公众号，其实想写的东西有很多，只是“欲辨已忘言”。今天准备开一个全新的系列，彷徨随想。我自己上本科的时候，“随想”是mp3里的一个歌单。开始使用印象笔记时，“随想”是第一个笔记本。如今，随想之余，多了彷徨。这个系列不知道会写多长，这是最后一篇也不一定。但是，我还是给自己定下一个小目标，36篇，

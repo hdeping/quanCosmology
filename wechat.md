@@ -502,6 +502,78 @@
 
 这是第一篇，接下来应该还会有几篇。这一系列结束之后或许会写一写初高中时候曾经痴迷的一些数学问题。
 
+# 百度知道问答二
+
+开始百度知道问答系列的第二篇。昨天的第一篇十分失败！ 最后一张图片由于是在自己的回答里down下来的，十分模糊，而且提问者给的图片也十分模糊，十分影响阅读。从今天开始，非文字描述的问题会是我自己做的图片，而不是提问者上传的原图。开始今天的问答，每一个问题后会写几句自己的吐槽，别是一番滋味。
+
+
+
+## 一、
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpp49Z1QJFrp4q38A8xO0Anf8fswibSHIwc6kyKZV3PaFdTRFHia2zibYp4U4AnDqth0ticU7NhjmuNcUQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+解答如下：
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpp49Z1QJFrp4q38A8xO0AnfAPv43R3wIkXm3ibBTcYvXDsjXgFy309NuYyqsf9kZBTjPsXyRLCzocw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+大部分积分的计算是为了求解面积、体积之类的，求解一个定积分即可，值得注意的是不同坐标系的公式不同，与之相对应的几何形状也不一样。比如，直角坐标系下是一个带弧的梯形，极坐标下则是一个扇形。
+
+
+
+## 二、
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpp49Z1QJFrp4q38A8xO0AnfPibXiau6ECdQKRlA9y6Gibz65DLRf2j4YyhNkAqIibDU2dmnPavVTAbiciaA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+解答如下：
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpp49Z1QJFrp4q38A8xO0AnfxwFm8EVw0vUV82vOcS2lJXeXk9pAF6ic1H3gDjgAQLocTMLITwSsoIQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+有人说（三流文艺片的惯用开头。。。），数学是“邱比正楠”公主（多么难听的名字。。。）。谐音“求比证难”，相比不知道答案的求解问题来说，证明总是更加容易的，想办法凑吧。
+
+
+
+## 三、已知平面两点A,B，在AB连线上有C点，AC长度已知，求C点坐标公式
+
+
+
+解答如下：
+
+
+
+
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpp49Z1QJFrp4q38A8xO0AnfzodKB2OWfnALOMZNVmhxRq1fm2xz7G2nrZOkFWeBlRmJKibcMQeicrOQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+这不仅仅是个初等几何问题，还是个初中几何问题，放在这里只不过想说图画得不太难看。
+
+
+
+## 四、一个行列式求解问题（问题即在答案中）
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpp49Z1QJFrp4q38A8xO0AnfYW64S7F94nmyUSEeVNse8HicN29hqNgY5m2hH4q6ql768h6uR72hHDA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+大一下学期学习线性代数，着实在行列式求解上花费了一番功夫。矩阵是一个神奇数学符号。海森堡在没学矩阵的情况下为自己的量子力学理论建立了一套符号体系，称之为“表格”，其导师估计跳起来给了他一巴掌，“这tm是矩阵”。另外，华罗庚曾骄傲得说自己的矩阵运算使用起来跟四则运算一样熟练。从两个大牛身上，我们看到了矩阵是多么重要的一个概念。
+
+
+
+## 五、四阶行列式如何转化为三阶行列式？
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpp49Z1QJFrp4q38A8xO0AnfmHc3URxkI1BqNZSRpq2ibRcldzn5ofRrBkBgiahwiaygPVsZcib9geUrUg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+老胡说，“怕什么真理无穷，进一寸有一寸的欢喜。”
+
+以上!
+
 # 彷徨随想（一）
 
 快一年没有更新公众号，其实想写的东西有很多，只是“欲辨已忘言”。今天准备开一个全新的系列，彷徨随想。我自己上本科的时候，“随想”是mp3里的一个歌单。开始使用印象笔记时，“随想”是第一个笔记本。如今，随想之余，多了彷徨。这个系列不知道会写多长，这是最后一篇也不一定。但是，我还是给自己定下一个小目标，36篇，

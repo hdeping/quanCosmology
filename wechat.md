@@ -116,6 +116,58 @@
 
 不知道我是不是第一个写完心得体会的，浙大的每人五千字又写多少了，说好的奖金什么时候发呀，都快揭不开锅了。
 
+# 花花世界
+
+芸芸众生，花花世界
+
+小可爱送我插花，出乎我的意料，于是寂静无人的寝室有了一抹明亮。
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-1.jpeg)
+
+尤其喜欢中间的绿菊，颜色是如此的与众不同。
+
+## 01 鲜花之恋
+
+  刚到手的是鲜花。
+
+  从快递手中接过一筒长盒子，入手微沉。拆开后迎面扑来一股花香，然后才看到盒子中放了一束鲜花和一个花瓶。当我给花枝剪去多余的枝叶和茎干，当我给花瓶装上水，当我把花束放入瓶中，房间里瞬间明亮了起来。这样的奇妙怎能不用相机记录呢。
+
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-2.jpeg)
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-3.jpeg)
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-4.jpeg)
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-5.jpeg)
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-6.jpeg)
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-7.jpeg)
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-8.jpeg)
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-9.jpeg)
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-10.jpeg)
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-11.jpeg)
+
+
+## 02 干花之念
+
+  花总有谢的时候，我可不忍心她化作春泥，在自然风干的作用下，鲜花成了干花。没了水分，花朵不在那么艳丽，好在可以长期保存，小可爱送的我怎舍得乱扔呢？
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-11.jpeg)
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-12.jpeg)
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-13.jpeg)
+
+![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-14.jpeg)
+
+愿生命中花开常在。
+
 # 彷徨随想（一）
 
 快一年没有更新公众号，其实想写的东西有很多，只是“欲辨已忘言”。今天准备开一个全新的系列，彷徨随想。我自己上本科的时候，“随想”是mp3里的一个歌单。开始使用印象笔记时，“随想”是第一个笔记本。如今，随想之余，多了彷徨。这个系列不知道会写多长，这是最后一篇也不一定。但是，我还是给自己定下一个小目标，36篇，

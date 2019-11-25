@@ -168,6 +168,8 @@
 
 愿生命中花开常在。
 
+# 指尖哲思
+
 “纸间的折痕，是指尖的哲思”
 
 我们是平凡人，可总有些时候，我们希望自己是不凡的。所以，有一门兴趣爱好十分重要，最好可以伴随自己足够长时间，沉浸与热爱可以让一个人绽放光芒。我曾经不止一次地听人说，他们被外国朋友问到“what's your hobbie?”时一脸懵逼，或者是在填写简介时遇到“兴趣/爱好"这个项目时苦思冥想。通常人们希望成为有趣的人，我想有趣的标准是会点什么东西，不能是太没有门槛的，太多人在“兴趣”一栏中填上“旅行和阅读”，以至于我遇到这样的简介绝不会在心中对这个人留下多高的评价。张岱说“人无癖不足与之交”，我因此告诫自己一定要有些话题自己能够跟人聊得唾沫横飞，能够神采飞扬，这些话题就是通常所说的兴趣爱好。借用一下李笑来的话，“七年就是一辈子”，今天聊聊自己上辈子的兴趣：折纸。
@@ -243,6 +245,56 @@
 ## 灵机一动
 
    愿自己独处时，除了手机之外，还有别的。
+
+# 骑行
+
+对自行车是有一种好感的，所以当时听摩拜创始人胡玮玮讲她对自行车的牵绊时深有同感。初三开始骑车上下学，风雨无阻，真是年轻气盛，越是大雨倾盆，越是喜欢骑着单车在雨中徜徉，就不怕被雷劈吗？想到这里倒有点怀念那时候的自己，不羁放纵爱自由，哪怕是全身湿透，也丝毫不掩快乐。
+
+14年去徒步三百公里，15年底徒步50公里去一个古镇，步行太慢，于是就想着买一辆自行车吧，周末可以骑行到周边的一些地方。于是入手了一辆山地车，花了一个下午时间安装完毕。同时，买了一个小驼包，方便放衣服和食物。
+
+有自行车之后，着实去了不少地方。刚有车的两个月时间，骑行超过1000公里，最拼的一次一天骑行180公里，最后在凌晨一点的时候到达学校附近，在一家麦当劳吃汉堡。
+
+最值得说道的经历有两个：
+
+一个是骑行遇到其他骑友，一般会通过各种方式打招呼，有些伸手示意，有些热情的会大声呼喊，顿时觉得：吾道不孤！另一个就是自己穿着骑行服，尤其是经过一个乡镇或者农村时，总有小孩围观，老爷爷老奶奶时不时送来诧异的目光。我是可以坦然面对的，十分荣幸能够通过这种方式成为一道风景。当然也有很尴尬的时候，有好几次停下来喝水休息，老奶奶过来搭话，说着完全听不懂的方言，这时只能装作听懂的样子微笑地听老奶奶说，听一会儿赶紧骑车上路。
+
+路途总有惊喜，有时候也有惊吓。又一次把脚踏板踏断了，断了，断了...... 那时的心情是崩溃的，只能收拾下支离破碎的心情，一只脚骑行上路。
+
+
+
+**沿途风光**
+
+有几次路过一些池塘，通过合影的方式承包了。。。 
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBWKU0ppGwef3TvTdqSLUgmk6QUhCPlLyefEKF5PNs6eohicRfybS7IOA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBrmh1uK8JqLHOoz57PZlibqutZr6xzFP5A6O1ZgyskTYKPhGNz8rUJdQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+向往朝阳，当晨曦初露之时，心中无限遐想。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBtVntPh5s4uN6LwC2ich2tQUJh9OoUciaBZiakTfEsPhZKfJwia6mH3qU5w/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bB2cISCAF0rdmsKOgZCkvWx8wFrdE97jPqmYibG8nK5fvsDiclpqgmSic3Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBSRedUtqjdzmxiaySfem1MI4M6yic7ByaWibT64ViaQI9MjI8l2kLLdbnJg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+暮色下的风光也不错的
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBQmFCSLJ6jPoibZNIJLxx8rjzMCaSyH5zE9BbFZcTuzctZiaBqJZI9auA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBjTWuv3RibfVy87GR7LYyp3DvG2yI8tqp2olrA5bkbE6nCXZCQDaIctQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBqvOVafTnllKXuzJ2ZuicArGpicQUyMYCOthjSYydPZrf7rx6Y4tdFaAA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+**灵机一动**
+
+  愿生命不息，折腾不止
+
+![img](https://mmbiz.qpic.cn/mmbiz_gif/PJKbOGdINpqqpqG59dQlDA5C2U4YJ0bBnvu9tLlrbAibVpLtdTtpeD6fiafhl17oS2sTVcxo05OP6UQ9uXGOpibJg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
 
 # 彷徨随想（一）
 

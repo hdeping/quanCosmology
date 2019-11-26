@@ -1723,6 +1723,26 @@ IT从业者的法律扫盲
 
   重要的科学发现无不是人类庞大知识网络中的重要节点，意味着会有诸多新发现以此为出发点，也往往意味着新学科的诞生和迭代。牛顿第二定律之前的物理学是松散的，进化论之前的生物学只是博物学，香农之前只有信息传输而没有信息学。
 
+# 动物庄园
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppAfIEFrPxLFV3DEicY9ibhcE2LTNuib7ibb3ibcBGw1LKz9oS0MF5bBQdWp7DMcadHibDmzEJibqtBhpC3Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+来自福州盒马鲜生的一个模型
+
+动物庄园（Animal Farm）是乔治·奥威尔的一本反乌托邦小说。一群农场动物发动起义，赶走了人类，试图建立起一个动物自治的国度。然而，统治者由人换成了“猪”之后，普通动物们命运并没有变化。故事的最后，动物国度的统治者“猪”们人立而起，谁是猪，谁是人，无从区分。
+
+有几个讽刺的细节：
+
+1. 故事的开头，年迈的智“猪”Major控诉着人类的贪婪和动物们的悲惨境遇，唯有反抗才能摆脱桎梏。最终，“动物主义”依然没能让动物们走向自由。人类统治和动物自治并无不同。
+2. Animal Farm的统治者叫做Napoleon。
+3. Major对老马Boxer说：“Jones will sell you to the knacker, who will cut your throat and boil you down for the foxhounds”. 经历了动物自治，Boxer为心中的“动物主义”奉献了所有力气，终于，Boxer被“统治者”送去了屠夫（knacker）手里。
+4. 在动物庄园成立之初，约定了“No animal shall kill other animal”.终于，这条约定被改成了“No animal shall kill other animal WITHOUT CAUSE”.
+5. 在农场主Mr. Jones 时代，农场名为“Manor Farm”，动物们当家做主后改名“Animal Farm”. 在Napoleon和一班狗腿子的带领下，农场重新改名“Manor Farm”。原文是：“Henceforward the farm was to be known as 'The Manor Farm' --- which, be believed, was its correct and original name.”
+
+
+
+下一个目标是看《1984》，这是乔治·奥威尔最著名的反乌托邦小说。 
+
 # 彷徨随想（一）
 
 快一年没有更新公众号，其实想写的东西有很多，只是“欲辨已忘言”。今天准备开一个全新的系列，彷徨随想。我自己上本科的时候，“随想”是mp3里的一个歌单。开始使用印象笔记时，“随想”是第一个笔记本。如今，随想之余，多了彷徨。这个系列不知道会写多长，这是最后一篇也不一定。但是，我还是给自己定下一个小目标，36篇，

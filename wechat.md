@@ -974,6 +974,72 @@ y的根式表示
 
 这几年其实越来越开始学着去欣赏小地方的魅力，也许这些地方没有北京、上海、杭州等大城市的现代化魅力，但是往往更有独特魅力和不一样的故事。
 
+# 杭州行
+
+两度去过杭州，而且几乎是同一时间，一次是2016年的五月初，一次是2018年的五月初。巧合的是，鄙人正好五月初过生日，因此对于杭州的印象更为深刻。
+
+说起杭州，一定会提起西湖。然而很多去过西湖的人总是失望的，真实的西湖风景很难让人想起“杏花烟雨江南”。这就是了，西湖是文人景观，人们早已习惯了诗词里的“西湖”，“接天莲叶无穷碧，映日荷花别样红”，“欲把西湖比西子，淡妆浓抹总相宜”..... 面对真实的景色，人们难免会失望。当然，还有更多撩骚的句子，这也就提醒了我自己，下次去西湖一定要做足功课，比如西湖十景分别有哪些诗词？最好是濛濛细雨，和心上人撑着伞，吟诵着数百年前的句子，岂不快哉？
+
+## 傍晚的西湖东岸
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpp5pxtJltnWbQJoGl7XjndNKmj6bVoPZc29799av8CFKTic230KFXLMOj5Muc54ZgfMGjF6vqWicljQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+## 夜色下的龙舟
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpp5pxtJltnWbQJoGl7XjndNnwkBLqPI6NnCicncfOeKmKaY1lbibCRjeYMfO6LdtVbV1u69Phz9ghYQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+
+
+来杭州总是要去西湖，不懂诗词没关系，退而求其次，逛吃逛吃。2016年5月去了西湖，第一天沿着西湖走了一圈，同行的小伙伴叫苦不迭。接下来那几天总是下雨，在下沙那附近，确实找不到杭州的感觉。2018年5月又去了杭州，这次去的地方多一些。同样的季节，同样的天气，时而下雨，时而放晴。冒着小雨游西湖，在西湖东岸的柳浪闻莺驻留了一会儿。在岸边的小餐馆花38块钱买了一杯清茶，权当是躲雨和欣赏雨景的门票了。在小伙伴的带领下去周边一个银泰城里吃喝，饭馆名为新白鹿。几道菜着实不错，唯独西湖醋鱼，不是所有人都能接受的。酸甜不算什么，不放丝毫的葱姜蒜，鲤鱼的腥气十分明显。没想到的是，竟然吃完了，我们都是不挑食的好宝宝。
+
+
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpp5pxtJltnWbQJoGl7XjndNWicpJyyCANnCWZOibs65D6f2wuQD3XEYwb25wvgjR4bWuUoPcmM3qswQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpp5pxtJltnWbQJoGl7XjndNuCbjZMlzcvrvMpZU1piaYPDygOib6gSWat1q1gUqoGGYPGA0mj0GDuww/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+这一小块一小块的中间是豆腐，裹了一层蛋黄油炸出来的，外酥里嫩，吃完后唇齿留香。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpp5pxtJltnWbQJoGl7XjndNPL9OPe8fNrJAjiatQ1vZLlqBk01V88THronIba46Tv2hZAryDpmVlKQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpp5pxtJltnWbQJoGl7XjndN8Peop05LITViaSZDCYiaBoF6nATlr7rGDmUOlz9wQTe1FEF92vkMbYjA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+东坡肉一枚，脑补着苏东坡满嘴油腻地吟诵“老夫聊发少年狂”。。。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpp5pxtJltnWbQJoGl7XjndNic2AmviaAbiaksC0kYiaJ3ib173SqHWjz4RNF1kGT48uYP2D5xP8RE5FUeQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+## 传说中的西湖醋鱼
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpp5pxtJltnWbQJoGl7XjndNqoyc6aBYpwZTbEhQh7aVicP0cz3XeuNveQrosOxuFPFKRRBKafCZOvQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+这次在杭州的滨江区，放眼望去皆是令人望而生畏的高楼大厦，即便如此，杭州还是会再来的。
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpp5pxtJltnWbQJoGl7XjndNOoccRdUo4zWlaJaAbHWpg4cePaYmZgnKfd5COw3w1mF2GV83ZQVM2w/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpp5pxtJltnWbQJoGl7XjndNNxBYmFQMDXMFTkEC9MEZQAN0QoeDt1Yu41DAqxJBVcJj32XVqZlw2w/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpp5pxtJltnWbQJoGl7XjndN2j8WDhlF3Qtl6HOl3KXYMx1pX47OuWoibDOic6pd1tQTd3ozNBelguVA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpp5pxtJltnWbQJoGl7XjndNDSopue3V0nSGcickuwsicr0tGYKq6jE6dp4aLYyKC5tXUzIcRIiap7kFg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
 # 彷徨随想（一）
 
 快一年没有更新公众号，其实想写的东西有很多，只是“欲辨已忘言”。今天准备开一个全新的系列，彷徨随想。我自己上本科的时候，“随想”是mp3里的一个歌单。开始使用印象笔记时，“随想”是第一个笔记本。如今，随想之余，多了彷徨。这个系列不知道会写多长，这是最后一篇也不一定。但是，我还是给自己定下一个小目标，36篇，

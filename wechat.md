@@ -574,6 +574,44 @@
 
 以上!
 
+# 百度知道问答三
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpomla2ibcf6arVicoicrYvHQ2b7HjzkbaejaAgiaJGh4pK17AFQ73Gupdicd7ljZtQ0ibbGBekibG0zlexdA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+上图是Euler公式，号称最美丽的数学公式，以此开篇。
+
+这是百度知道问答系列的最后一篇，关于百度知道问答的所有整理到此为止，问题过于简单，对自己的进步帮助不大，只能当做是消遣。作为这一系列的结束，鄙人精选了如下两道自认为最精彩的解答（不喜勿喷。。。 ） 。
+
+
+
+## 一、一道解码问题（题目在解答中）
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpomla2ibcf6arVicoicrYvHQ2bGcAIEjJgHwCPTyICibfKl0l2xpqibgoIkqxOTsvePPkTAQgyF71fUCiag/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+题目在上图的左边： 两张带有蓝色小方块的10X10方格，两个图形分别对应一个长度为10的数字编码，也就是途中的B码。解法十分简单，但是画图费了不少功夫，事实上用文字描述就两句话：奇数行从左往右数，偶数行从右往左数（从0开始数）。
+
+
+
+## 二、Ramanujan极限问题
+
+![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+
+这个问题其实是Ramanujan（有关Ramanujan的传奇故事和神奇公式或许以后有机会单独说道说道）极限问题的一个拓展，看着复杂，事实上使用简单的代数方法就可以求解。具体方法如下：
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpp49Z1QJFrp4q38A8xO0AnfqUK4uCGia6eznRicTA9KAY5o9m8NQbbOac6DA9K74cWgglKxtr5vjwDg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+最终的答案是285，这个数很容易验证，等式两边平方，285的平方减去2013得到79212，正好可以被276整除，并且商为287，依次类推，这个极限是成立的。
+
+
+
+开始这个系列纯属偶然，前几天开始纠结接下来该写什么东西，纠结来纠结去偶然看到自己在知道上的回答，于是干脆花时间整理从前的问答。这个系列结束之后，更多的想法也由此产生，数学是一个大块，曾经自己也很痴迷，但是一直停留在求解几个定积分的水平，对于现代数学的流形，拓扑等领域一知半解，希望自己以后可以花时间去学习这些知识，不求全部掌握，但求知道个大概。
+
+预告下明天的文章：一元三次方程根式求解！ 这是个高三就会的问题，将近十年时间，明天的文章应该会有点意思。
+
 # 彷徨随想（一）
 
 快一年没有更新公众号，其实想写的东西有很多，只是“欲辨已忘言”。今天准备开一个全新的系列，彷徨随想。我自己上本科的时候，“随想”是mp3里的一个歌单。开始使用印象笔记时，“随想”是第一个笔记本。如今，随想之余，多了彷徨。这个系列不知道会写多长，这是最后一篇也不一定。但是，我还是给自己定下一个小目标，36篇，

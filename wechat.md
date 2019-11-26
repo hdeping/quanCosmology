@@ -894,6 +894,86 @@ y的根式表示
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpocjfLM0d9NCz9k6Tsl6mpeOtR20eQMm6D446ypBJHftQXrTVYd41C6dibNibbC9icnYRlzf2iap9fZmA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
+# 安庆行
+
+作为安徽曾经的省会，也许很多国人都不知道有安庆这个城市。当年顺治帝大笔一挥，将富庶全国的江南省一分为二，“江南右”取江宁（今南京）、苏州各一字，是为江苏省；而“江南左”取安庆、徽州（今黄山）各一字，是为安徽。又因为毛主席说合肥为皖之中，“自古以来”就是安徽省会的安庆便逐渐不为人所知。
+
+相隔不到半年，两次去安庆，目的是出差，没有去过很多地方，值得称道的有两个，一个是振风塔，一个是黄梅戏。
+
+## 01 振风塔
+
+塔高60米上下，位于长江边迎江寺内。地方不大，进了寺门，走过前大厅，穿过一扇门就能找到佛塔。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3PiaCbqRwOibhV1Hk69NxExbOunW1Bp6ibGiaW7ELb5wwu0PicoveS2E4Iow/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3jBPTy5iberYew9kpzfLI1kqXl38xQYibbOicoF6K9QoFYt6cqn5csHPCQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x34iaA1tic14wUAwibSqSCJzWuF9EYuwf8xHFbmwSu7vHRCjXc7FxLJDd5Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3JPj3BMxoIcjPqjWEkibRaiaKsfSPmbia5epECEcicvEtAW4mO19yIh8JTg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3jTB1IjbpmDwOaPUfb5rPwmRJHzahAI26FKjnJvabMU17eJLJtBS4og/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+从佛塔顶层窗口向外望去，市区尽收眼底，长江就在脚下。塔上没有护栏，而且楼梯很窄，上下的人又不少，相当恐怖。
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3ZQiahP0xrQXAibicDrHndnZubpHPplB1ibbNYMvIIvAvZJRFPOSKRlVeng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3ic99QfdWPJddUn7OBExet1xcRPXkoBkKPyDeZj5TShO2ALCiaNQXsgMQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3nLEhueN4Ublia6EYiandtq4twp23ON4TQAuibCQibaBSzAZ2dLDsZSJfQg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3iaHK6ITzhwcoHknm2RAW7G95NKybkzia68mrXPTfaldGAr8Cr0m7OTKw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3qAhFsDk9aAmxDkTYEjcHAfMuZPAmejibRNhAXVHFjUQ60GxfpBdYVOQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3b5LNuDXibZrgaMrcfcFrxmibBQLU9ib3eq7egDz2qvOt3ToAMmHibCScgw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3iazz856k69z3oS0JK60NH4S5RwXTvicYAXm3AGt3rlmv2R13Q7N6wAiaw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+## 02 黄梅戏
+
+黄梅戏不同于京剧，京剧都讲述帝王将相的风流韵事，黄梅戏讲述民间疾苦，儿女情长，因为是传唱最为广泛的戏曲。
+
+
+
+进场之前看到的黄梅戏玩偶，生动可爱。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3SiaO0WxMJcG0MqrLhJibnkw3Tjn1E3QhaD9A2JImhHltDALXhduXJRVQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3S8XCibNvY3GwrJ8ZvHiczicBAib4iaWqEIHynaButaGia06EuVjAiazMkjcIg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+舞台效果可圈可点，两边有字幕，有些唱词有一定的喜剧效果。
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x35ziagCcF6gHmZNbPRZuAlgSCBlUYz29adNOYRWhCQtOq3hhiaibFWbYew/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3JkkR3wAibvsRYDKrzEj6ibQQXFz5AlWoFhlVUQoicwQE3TkKGEA0ceAHg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3oDs5RSWQ9ZlyUnkgrc7lqAfE0oVxz86DK5YRoyRkcBYfxx13Z5PI5g/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+部分黄梅戏的曲目也有帝王将相的故事。
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3Xs7ebZU6dD7fQib1xbTiast0qRhZlC6pmwpszVhvSS5LkImtxNfnzeBg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpqOQ9FT5f0MgloUJx9zR5x3TouuDeBHEKzDO41ZnYPzTeTSUJ5J9BJop8icQuiaqCSCPbHB8QFbLic8Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+年轻人也许不再听戏了，但第一次听过之后确实有惊艳的感觉，至于这“国粹”何去何从留给专业人士去努力吧。
+
+
+
+这几年其实越来越开始学着去欣赏小地方的魅力，也许这些地方没有北京、上海、杭州等大城市的现代化魅力，但是往往更有独特魅力和不一样的故事。
+
 # 彷徨随想（一）
 
 快一年没有更新公众号，其实想写的东西有很多，只是“欲辨已忘言”。今天准备开一个全新的系列，彷徨随想。我自己上本科的时候，“随想”是mp3里的一个歌单。开始使用印象笔记时，“随想”是第一个笔记本。如今，随想之余，多了彷徨。这个系列不知道会写多长，这是最后一篇也不一定。但是，我还是给自己定下一个小目标，36篇，

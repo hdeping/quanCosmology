@@ -122,7 +122,7 @@
 
 小可爱送我插花，出乎我的意料，于是寂静无人的寝室有了一抹明亮。
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-1.jpeg)
+![](figures/flower-1.jpeg)
 
 尤其喜欢中间的绿菊，颜色是如此的与众不同。
 
@@ -133,38 +133,38 @@
   从快递手中接过一筒长盒子，入手微沉。拆开后迎面扑来一股花香，然后才看到盒子中放了一束鲜花和一个花瓶。当我给花枝剪去多余的枝叶和茎干，当我给花瓶装上水，当我把花束放入瓶中，房间里瞬间明亮了起来。这样的奇妙怎能不用相机记录呢。
 
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-2.jpeg)
+![](figures/flower-2.jpeg)
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-3.jpeg)
+![](figures/flower-3.jpeg)
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-4.jpeg)
+![](figures/flower-4.jpeg)
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-5.jpeg)
+![](figures/flower-5.jpeg)
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-6.jpeg)
+![](figures/flower-6.jpeg)
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-7.jpeg)
+![](figures/flower-7.jpeg)
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-8.jpeg)
+![](figures/flower-8.jpeg)
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-9.jpeg)
+![](figures/flower-9.jpeg)
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-10.jpeg)
+![](figures/flower-10.jpeg)
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-11.jpeg)
+![](figures/flower-11.jpeg)
 
 
 ## 02 干花之念
 
   花总有谢的时候，我可不忍心她化作春泥，在自然风干的作用下，鲜花成了干花。没了水分，花朵不在那么艳丽，好在可以长期保存，小可爱送的我怎舍得乱扔呢？
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-11.jpeg)
+![](figures/flower-11.jpeg)
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-12.jpeg)
+![](figures/flower-12.jpeg)
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-13.jpeg)
+![](figures/flower-13.jpeg)
 
-![](/Users/huangdeping/myGitDir/wechatChanel/figures/flower-14.jpeg)
+![](figures/flower-14.jpeg)
 
 愿生命中花开常在。
 

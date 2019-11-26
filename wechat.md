@@ -1302,6 +1302,26 @@ PS：骑行的经历还有不少可以写，但是文字和照片还是不够多
 
 五天时间匆匆而过，没进去故宫也没有遗憾。清华，后海，王府井，天安门，这是喧嚣嘈杂热闹非凡的北京，也是气派恢宏气势辉煌的北京。北京，北京，期待下一次的相遇。
 
+# 生命科学五十讲
+
+人类历史上最恐怖的故事是科学家讲出来的。无论是黑暗宇宙中幽灵般的黑洞，还是瞬息之间夺去百万生灵性命的原子弹，科学家在发现和制造“神奇”上从来没让我们失望过。几百年的科学史让我们知道了很多，无论是天文地理还是物理化学，从万有引力定律到元素周期表，从量子化学理论到电弱统一理论，我们能够知道的已知和未知已经很多。
+
+然而，生命是什么? 一句“生命以负熵为生”总是不够过瘾?我们想知道人体内有多少细胞？多少蛋白质？多少个化学过程？蛋白质之间如何相互作用共同实现某一生物功能？为什么有“我”？碳氢氧氮磷怎么堆出自由意志？我们有自由意志吗？大脑如何工作?人类寿命的极限是多少？癌症如何治愈?
+
+生命科学跟我们是零距离的!我们想知道的很多很多，然而我们能知道的很少很少。这就是我为什么毫不犹豫地订阅了这个得到专栏，生命科学五十讲。生活大爆炸中的几个主角大概就是科学家和工程师的本来面目，他们不讲人话(自己也该警惕)，玩弄着瓶瓶罐罐和代码符号，前赴后继地把一门门学科推向了绝大数人都无法理解的地步。所以一个讲人话的科学家是难能可贵的，浙江大学的王立铭教授就是这样的一个家伙。他在一席上有一个演讲，内容大意是利用生物学帮助人类完成探索太空的使命，值得一看。
+
+在这个专栏当中，王立铭老师从物质，能量，自我复制，细胞，分工，感觉，学习，社交，自由意志这几个角度层层递进地讲授了整个生命科学的框架，深入浅出，趣味横生。以下是每篇文章末尾的知识卡片（呜呜呜。。。 顺序完全弄乱了。。。 ）
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpo1PoPDkfVJIsWQTGe4pqA7Tm5YIncohD06CkicV1ljsicb6ibbPTx5vmqYxg4YRATeWzNMpPlOhoW4Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpo1PoPDkfVJIsWQTGe4pqA7FibwSQsXfe5peibice6ZnTAzDUhoRPYqnwT6nJMvbzSicMC19icDtFiaWrrQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpo1PoPDkfVJIsWQTGe4pqA7oiciaj22uBmG6Qh5qTiaUuJVbfjMrwp4crsUFicJ9ZicfXhPogUQcvxibD8g/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpo1PoPDkfVJIsWQTGe4pqA7phB19HRxv36icYD24PUD6Fh1O735bDqlYsrx7n5pGWBP7gf53HbzZqA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINpo1PoPDkfVJIsWQTGe4pqA7u2NYDuvwdFZXpaNISEJUFZLsOn0u9CQuPmUSic7SK6lIJoZ7nEUqjGA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
 # 彷徨随想（一）
 
 快一年没有更新公众号，其实想写的东西有很多，只是“欲辨已忘言”。今天准备开一个全新的系列，彷徨随想。我自己上本科的时候，“随想”是mp3里的一个歌单。开始使用印象笔记时，“随想”是第一个笔记本。如今，随想之余，多了彷徨。这个系列不知道会写多长，这是最后一篇也不一定。但是，我还是给自己定下一个小目标，36篇，

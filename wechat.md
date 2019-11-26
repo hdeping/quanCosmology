@@ -696,7 +696,47 @@ y的根式表示
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppYOQ0hgPWtxRy7bYBjZd3b4ib7rI3uYLv7cnohaScN05xdRXIdlp5uVKC2IyHELl1jyicQ8VoEsxmw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
+# 一元四次方程
 
+昨天是一元三次方程，今天是一元四次方程，明天是不是要介绍一元五次方程？还真不是，代数方程的一般根式求解到四次就到头了。一元五次方程还可以用椭圆函数表示，更高阶的方程一般只能用计算机求解。
+
+闲话少说，开始正题。
+
+一元四次方程的求解可以参照三次方程的方法，用三个未知数表示方程的四个解，利用韦达定理给出未知数的数量关系，最后得到一个三次方程，求解这个方程之后也就解决了四次方程的问题。
+
+从四次方程的形式开始。
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpqkQyWhWaRf1ciaaLapyE9jxJHS5vkYMntG9Mt7VicLSiav6mZFAYvbARayuv34ZLY6vdwpOZ9YUqBUg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+跟三次方程一样，给出预解式。
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpqkQyWhWaRf1ciaaLapyE9jx80PDiaMTNg9Ug3LopUsNCJfOIlO4uPibmHd46RNwhtVHFbsqaqP6QibtA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+接下来是韦达定理。
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpqkQyWhWaRf1ciaaLapyE9jxKU3tvwBUL9CYzuzh2n8emLfMK1DNfdl7s4GibhtTOX3d4N0EVFHdGWA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+这里开始变得有点复杂，好在这些推导都是用maxima完成的。
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpqkQyWhWaRf1ciaaLapyE9jx1HWZYGhxFcibxxRbyAibSc7yH93LSol9Q20a2NphKbYxKjELyDK5VT1g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+十分顺利，得到了三个参数的关系式。
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpqkQyWhWaRf1ciaaLapyE9jxwtEY1dF5LYqzmA8KYfClKwCicnCGjCd3nlgV9TvZaxZvD9Ur26AfL8g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpqkQyWhWaRf1ciaaLapyE9jxKrl13BkfdKUO81hnbJ4dFYeMBkDfbWmqIO4M2TApJUT8l5SmVYLrrw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpqkQyWhWaRf1ciaaLapyE9jxrdiam3VZYWYJ9uSBLNyjmGL8T2eeozTnbLHh69YEA8dDKyFrflYZJ3w/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+以下三个参数的计算是比较重要的，有了这三个参数，可以解出三个参量对应的三次方程，因此用bling bling的方式放在下方。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINpqkQyWhWaRf1ciaaLapyE9jxwNxXnEDz3KfARibflysia66yI8YJ2LqkTxEmFk06EZU60RQlMIMtzpMg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+这五天时间介绍了一些简单数学，这个系列暂告一段落，明天开始游记系列，不再那么烧脑。
 
 # 彷徨随想（一）
 

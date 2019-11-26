@@ -1146,6 +1146,74 @@ y的根式表示
 
 PS：骑行的经历还有不少可以写，但是文字和照片还是不够多，恨不得有个无人机跟拍的一路行程。2017年的几次骑行还顺带了露营，一个人在野外露营，有点刺激，这一段经历得好好看看当时的笔记，过去了一年时间，细节都忘了。
 
+# 骑行里程续
+
+两天不更新公众号，总感觉一天下来有事情没做，心里总在念叨。这篇作为之前骑行里程的续篇，文章里的图片本来应该在上一篇文章放的，公众号文章又不能撤回，只能在此补上。
+
+开始正文。突然觉得生活中的有些小细节总结过后别有一番风味，比如手机照片的时间戳命名。通常人们不会关注这样的小设计，但是如果把不同时候相同主题的图片放在一块儿的时候，文件的名字本身成了一个标记，它冰冷地记录那个时刻，却能温暖此刻的自己。以下就是前一篇文章没放的里程的图片。
+
+
+
+**2016.03.20 11:55:41**
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppvb27VjOibmZnwHc7G31zyOq4wpmpkdr8DV4v3ebBzchpdLIzKvrU3TYiaMJoYGzSlAmXDP0STS5KQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**
+**
+
+**2016.03.26 11:58:58**
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppvb27VjOibmZnwHc7G31zyOlgH0ViabH9OyPC6749vTrAfLzQNNK75jvEgrWmQvvdksNcZ28jCP3Fg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+**2016.03.31 22:56:53**
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppvb27VjOibmZnwHc7G31zyOGXVOwrDdYfpp2qXbGy59cMlHgyaJiaeAtUx4iaJjzm8AFtudpKAjfVVw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+**2016.04.04 10:14:37
+**
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppvb27VjOibmZnwHc7G31zyOsSYQTPMn6KKjrfibIIZ2kl0OcTOia69zLKkweyYHkMUYOA1XkST784qA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+**2016.04.10 10:15:44
+**
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppvb27VjOibmZnwHc7G31zyOZo4K6eMWfKPFZXp2tKDbqRvEiaicpF8E3ZxUZRhH92DAAIHneAlcibpSw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+**2016.04.30 09:37:47
+**
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppvb27VjOibmZnwHc7G31zyOah9jcg3JxicXM4fGzVwYdTKCKpzVe7giceibllztLQ5gxWjwBfy9oQxaA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+**2016.05.17 21:22:47
+**
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppvb27VjOibmZnwHc7G31zyOjoC6E5sBk5E06kaicGGr7tb7fzThJX2uqARHZ5WAEk73QHQf2pGXX0Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+**2016.06.23 04:42:20
+**
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppvb27VjOibmZnwHc7G31zyODKdPR3vlpbFwnIR3Wlx4W1lTca3lzkVQ5nfsnowcFRKf9VmiaEbrfKw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+科大有个院士叫做吴奇，鄙人对他的实验室主页上一句话印象极深：“于无奇寻奇”。妙哉！一句话不仅藏入自己的名字，更表达了一个科学人的使命。关于这位吴奇院士，曾听过他的一次学术报告，提问环节有人问他的下一步计划是什么，这位年过花甲的老先生说自己已经功成名就，下一步想要游山玩水。骑自行车游山玩水了解一下？
+
+不调侃老先生了。于无奇寻奇，骑行路上总会遇到意外的惊喜。日出日下，月升月落，十里野花，本是最常见的风景，骑行疲惫时偶然抬头看到，那一瞬间满脸欢喜。
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/PJKbOGdINppvb27VjOibmZnwHc7G31zyO0zeAFo4SKZBv0nvickgJDzUaGT2JQZKbGCicq6ylaIGcIsAXuxytiaCtw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
 # 彷徨随想（一）
 
 快一年没有更新公众号，其实想写的东西有很多，只是“欲辨已忘言”。今天准备开一个全新的系列，彷徨随想。我自己上本科的时候，“随想”是mp3里的一个歌单。开始使用印象笔记时，“随想”是第一个笔记本。如今，随想之余，多了彷徨。这个系列不知道会写多长，这是最后一篇也不一定。但是，我还是给自己定下一个小目标，36篇，

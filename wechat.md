@@ -612,6 +612,92 @@
 
 预告下明天的文章：一元三次方程根式求解！ 这是个高三就会的问题，将近十年时间，明天的文章应该会有点意思。
 
+# 一元三次方程
+
+高一的时候见识大涨，当时每周去图书馆里翻旧书，尤其是各种未解之谜，百慕大三角的飞机失踪，尼斯湖水怪还有神农架的野人，看得如痴如醉。与此同时，对于数学的痴迷不减，不满足于教科书，甚至有时做一些现在看来毫无意义的尝试。比如，计算100的阶乘。100乘以99乘以98，一直乘到1，最后的结果是一个158位数。100个数分成十个部分，依次计算1到9的乘积，11到19的乘积。。。 以及91到99的乘积和10,20,30到100的成绩，最后将各部分的结果汇总。整个过程不使用计算器，完全使用纸和笔，在写满了十几二十张草稿纸的正反面之后，终于，我得出了一个错误的答案！ 在现在看来，当时可不仅仅是年轻气盛这么简单，对于数学的认识是肤浅的，当时的我认为，越“复杂”的东西越“高级”，比如100个数字相乘就比1+1来得高级，殊不知真正的“高级”指的是思维方式和工具的彻底升级。比如，从四则运算到微积分，从欧式几何到微分几何，从简单代数到群论，无一不是真正的数学思想革命。
+
+跟自己其他的“naive”想法相比，对一元三次方程的推导求解不仅满足了当时的自己对“复杂”公式的追求，同时也给自己揭开了数学大世界的一角。对数学的热爱与敬畏也许都是从那个时候开始的。
+
+闲话少说，开始今天的问题。
+
+初中学过一元二次方程的解法，其公式和推导并不复杂。事实上，我们是通过“凑”成一个平方将二次方程转化为两个一次方程求解的。
+
+二次方程的解
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppYOQ0hgPWtxRy7bYBjZd3bM6LdsPdS8o1r5dOn50C3pibOQfVJGZIqNibmhpLcB96iaUWbKSCucIdHQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+那么，自然而然地我们就会想在求解更加高阶的方程的过程中，能否使用这种理念，将高阶“降阶”为低阶方程进行求解？至少上三次、四次方程的问题上，答案是肯定的。
+
+一元三次方程
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppYOQ0hgPWtxRy7bYBjZd3bKicUWu8Mh1uYnCIOKj5VYTLpC4oODKWRPEEJHW7xWog6o5tEOgs8Iqw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+问题来了？如何降阶！ 根据代数理论，三次方程有三个解（有时候可能会有重根），这里介绍一个简单但不是那么直观的求解方式。事实上，最开始三次方程的根式形式不是通过这种方式得到的，但是现在我们对代数方程理论有了足够清楚地理解，通过假设方程的根有如下形式我们可以很快地得出答案。
+
+三次方程根的预解式
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppYOQ0hgPWtxRy7bYBjZd3bfvVHQn9peVvyzvibwuYsyML4pNtlOddTm8ial5azQ6r4LWezGBJB2eibw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+以上的预解式形式上和二次方程的根形式如出一辙，分子中都含有-b，分母是2a和3a，分别对应各自的阶数。接下来的推导是顺理成章的，根据韦达（François Viète，十六世纪法国数学家）定理，代数方程的根与方程系数的关系如下：
+
+三次方程根与系数的关系
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppYOQ0hgPWtxRy7bYBjZd3by5opE0aUJatOLvNIPZzbDrd0GdjnvaJRubDU0fPQf4j3hyibYQhz0RA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+注意，预解式中的omega是一个常数，根据以上的第一公式可以计算出具体是多少，过程如下：
+
+常数omega
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppYOQ0hgPWtxRy7bYBjZd3bRLpBojCLKFyiaqsxytprpqiapLfqrWYAKvkewV8ibRCibfWVDHYwK5dn0Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+更进一步，剩下的两个公式分别将预解式代入，得到如下的形式
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppYOQ0hgPWtxRy7bYBjZd3boqUvYqicqHy3NZ2JZ0xsYV1ZsKOBbUnWQDzL5okIIOrkyib5zpHiarznw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+经过简化，y1和y2满足如下的方程
+
+两个参数y之间的关系
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppYOQ0hgPWtxRy7bYBjZd3b7Badu97RvOC9xe4KFfwGO8Wj8bWBP96ic5EWUkGLzXygmjPCm8g8bXw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+胜利的曙光已在前方，上述公式显然是y的三次方满足的一个一元二次方程，我们想要的降阶目的在此达到，一元二次方程的形式如下
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppYOQ0hgPWtxRy7bYBjZd3bYUQ3hnhMXYic78EMIE1DcXDb4d4HuuYWjaWMfKRATkos4ZomiamboIicg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+接下来就是用一元二次方程的公式轻松惬意地求出两个y的表达式，具体如下：
+
+y的根式表示
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppYOQ0hgPWtxRy7bYBjZd3bDZE8nFaia9r6XMvhSsGDaRWqpAIpWqKe0S4lZh73xz0ZgMtwKQYTNaQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+上述的公式太过于复杂，为了简洁考虑，可以将其中部分表达式定义成一些新的参数，这样操作以后y的表达形式得到大大的简化。
+
+三次方程的根式形式
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppYOQ0hgPWtxRy7bYBjZd3bicUo7MP4MERUjFSY4vX4CXNpSlm7WoLriaRG3METFxh5UqMyACYwxDJQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+总算是将一元三次方程的根式解讲清楚，从2009到2018，将近十年时间，隔三四年都会把这些公式重新推导一遍。当然，随着时间的推移，我掌握的工具越来越丰富，得到结果的速度越来越快。以前用纸和笔，不惧繁琐的代数细节，后来使用一段时间maple（商业软件，用于公式推导和部分数值计算），改用linux系统以后用上了maxima（开源代数推演程序，用lisp写的）。工具在变，乐趣不变。
+
+一元三次方程对于我自己来说可以彻底划上一个句号了。以前通过各种形式的记录全都不知所踪，通过公众号文章的形式以后再也不怕找不到。明天，继续写一元四次方程！
+
+
+
+最后，献上bling bling的三次方程表达式大图。这是用blender做出的3D渲染图片，刚开始学，还很粗糙。
+
+
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppYOQ0hgPWtxRy7bYBjZd3bOAYYQNt8wHGObwP0LKicMEqUQmghdylpia13ehGl7nibzibOSxuUlJNYtQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![img](https://mmbiz.qpic.cn/mmbiz_png/PJKbOGdINppYOQ0hgPWtxRy7bYBjZd3b4ib7rI3uYLv7cnohaScN05xdRXIdlp5uVKC2IyHELl1jyicQ8VoEsxmw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
 # 彷徨随想（一）
 
 快一年没有更新公众号，其实想写的东西有很多，只是“欲辨已忘言”。今天准备开一个全新的系列，彷徨随想。我自己上本科的时候，“随想”是mp3里的一个歌单。开始使用印象笔记时，“随想”是第一个笔记本。如今，随想之余，多了彷徨。这个系列不知道会写多长，这是最后一篇也不一定。但是，我还是给自己定下一个小目标，36篇，

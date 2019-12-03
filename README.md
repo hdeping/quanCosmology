@@ -8,3 +8,12 @@
 
 
 
+1. 我在github上放了公众号文章
+
+2. blender
+
+3. inkscape
+
+4. procreate
+
+   procreate是一款ipad上的画图app。我自己是一个绘画小白，但是一直想学一点绘画方面的东西。我这把年纪，从头开始学素描估计是不太现实了。

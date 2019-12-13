@@ -1,108 +1,110 @@
 
-# 超运算
+# 欧拉公式
 
-​	这是彷徨随想系列的第27篇。
+​	这是彷徨随想系列的第28篇。
 
 ​	
 
-​	今天介绍几个数学公式。接下来几天会陆续介绍各类公式，这是最近几年一直想做的一个系列。因为有了mdnice这个网站的帮助，我有信心完成这个系列。我将会把最近几年收集到的公式和心得都放进来。
+​	今天介绍几个欧拉公式。
 
 
 
-## 拉马努金公式（Ramanujan's Formulas）
+## $V+E-F=2$
 
-### 无穷开方公式
-
-​	印度数学家在其短暂的一生中为后人留下了3900多条公式。其中不乏一些初等的、容易记住的公式。
+​	这是立体几何中的欧拉公式。对于简单多面体而，其顶点数量（V，Vertices）、棱的数量（E，Edges）和面的数量（F，Faces）满足
 $$
-\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+\cdots}}}}=3
+V+E-F=2
 $$
+以五种正多面体为例，计算如下
 
+|        名称        | $V$  | $E$  | $F$  | $V+E-F$ |
+| :----------------: | :--: | :--: | :--: | :-----: |
+|      正四面体      |  4   |  6   |  4   |    2    |
+| 正六面体（立方体） |  8   |  12  |  6   |    2    |
+|      正八面体      |  6   |  12  |  8   |    2    |
+|     正十二面体     |  20  |  30  |  12  |    2    |
+|     正二十面体     |  12  |  30  |  20  |    2    |
 
-​	可以做一个简单的证明
+## $e^{i\pi}+1=0$
+
+​	这是复数中的欧拉格式。有诸多文章说这是最美的公式，美在哪里在此不做赘述。下面用不严谨的方法简单“证明”下这个公式。
 $$
 \begin{eqnarray*}
-n&=&\sqrt{1+\left(n-1\right)\left(n+1\right)}\\&=&\sqrt{1+\left(n-1\right)\sqrt{1+n\left(n+2\right)}}\\&=&\sqrt{1+\left(n-1\right)\sqrt{1+n\sqrt{1+\left(n+1\right)\left(n+3\right)}}}\\&&\sqrt{1+\left(n-1\right)\sqrt{1+n\sqrt{1+\cdots}}}
+e^{x}&=&1+x+\frac{x^{2}}{2!}+\frac{x^{3}}{3!}+\cdots\\&=&\sum_{n=0}^{\infty}\frac{x^{n}}{n!}\\\cos x&=&\sum_{n=0}^{\infty}\left(-1\right)^{n}\frac{x^{2n}}{\left(2n\right)!}\\&=&1-\frac{x^{2}}{2!}+\frac{x^{4}}{4!}-\cdots\\\sin x&=&\sum_{n=0}^{\infty}\left(-1\right)^{n}\frac{x^{2n+1}}{\left(2n+1\right)!}\\&=&1-\frac{x^{3}}{3!}+\frac{x^{5}}{5!}-\cdots\\i^{2}&=&-1\\e^{i\theta}&=&\sum_{n=0}^{\infty}\frac{i^{n}\theta^{n}}{n!}\\&=&\sum_{n=0}^{\infty}\left(-1\right)^{n}\frac{\theta^{2n}}{\left(2n\right)!}+i\sum_{n=0}^{\infty}\left(-1\right)^{n}\frac{\theta^{2n+1}}{\left(2n+1\right)!}\\&=&\cos\theta+i\sin\theta
+\end{eqnarray*}
+$$
+​	当$\theta=\pi$时，就可以得出$e^{i\pi}+1=0$。
+
+## $\lim_{n\rightarrow+\infty}(\sum_{n=1}^{\infty}\frac{1}{n}-\ln n)=\gamma$
+
+​	公式中的$\gamma$是一个常数，称为欧拉常数，数值等于$0.57721\cdots$。
+
+​	这个公式给了两个结论：
+
+1. 调和级数的和$\sum_{n=0}^{\infty}\frac{1}{n}$是发散的
+2. 调和级数的和可以用对数函数进行简便计算，比如前10000个调和级数和的数值是$\ln 10000 + \gamma\approx 9.787\cdots$
+
+## $\sum_{n=1}^{\infty}\frac{1}{n^2}=\frac{\pi^2}{6}$
+
+​	我们已经知道所有正整数的倒数和是发散的。那么，所有正整数的倒数平方和呢？这个问题是欧拉解决的。
+
+​	同样，这里给的是不严谨的“证明”方法。
+
+​	我们可以这么考虑，正弦函数$\sin x$有无穷多个根（跟x轴的交点），分别是$0,\pm\pi,\pm2\pi,\pm3\pi \cdots$，所以我们可以用一个代数方程去表示$\sin x$，结合$\sin x$的Taylor展开式，我们有如下推导
+$$
+\begin{eqnarray*}
+\sin x&=&x\left(x-\pi\right)\left(x+\pi\right)\left(x-2\pi\right)\left(x+2\pi\right)\cdots\\&=&x\prod_{n=1}^{\infty}\left(x^{2}-n^{2}\pi^{2}\right)\\&=&x\left(1-\frac{x^{2}}{3!}+\frac{x^{4}}{5!}-\cdots\right)
+\end{eqnarray*}
+$$
+​	我们做一个变换，假设$T=\frac{1}{x^{2}}$，代入以上方程，就可以得到如下的方程。当然，以上方程式一个无穷指数的多项式，为了简单起见，假设最高次幂是N（N趋向于无穷大）
+$$
+T^{N}-\frac{T^{N-1}}{3!}+\frac{x^{4}}{5!}-\cdots=\prod_{n=1}^{\infty}\left(T-\frac{1}{n^{2}\pi^{2}}\right)
+$$
+​	所以$T_{n}=\frac{1}{n^{2}\pi^{2}}$就是方程$T^{N}-\frac{T^{N-1}}{3!}+\frac{x^{4}}{5!}-\cdots=0$的根。根据根与系数的关系，我们就可以给出答案
+$$
+\begin{eqnarray*}
+\sum_{n=1}^{\infty}\frac{1}{n^{2}\pi^{2}}&=&\sum_{n=1}^{\infty}T_{n}\\&=&\frac{1}{6}\\\sum_{n=1}^{\infty}\frac{1}{n^{2}}&=&\frac{\pi^{2}}{6}
+\end{eqnarray*}
+$$
+​	以上方法是欧拉提出来的，虽然不够严谨，但是十分巧妙。巧妙的地方在于把一个无穷求和问题转化为一个代数方程根的求和问题。同理，我们可以求解出所有正整数的倒数四次方和、六次方和乃至于所有偶数次方和。
+
+​	所有正整数的倒数四次方和
+$$
+\begin{eqnarray*}
+\sum_{n=1}^{\infty}\frac{1}{n^{4}\pi^{4}}&=&\sum_{n=1}^{\infty}T_{n}^{2}\\&=&\left(\sum_{n=1}^{\infty}T_{n}\right)^{2}-2\left(\sum_{n\ne m}^{\infty}T_{n}T_{m}\right)\\&=&\left(\frac{1}{6}\right)^{2}-2\times\frac{1}{120}\\&=&\frac{1}{90}\\\sum_{n=1}^{\infty}\frac{1}{n^{4}}&=&\frac{\pi^{4}}{90}
+\end{eqnarray*}
+$$
+​	所有正整数的倒数六次方和
+$$
+\begin{eqnarray*}
+\left(\sum_{n=1}^{\infty}T_{n}\right)\left(\sum_{n=1}^{\infty}T_{n}^{2}\right)&=&\sum_{n=1}^{\infty}T_{n}^{3}+\sum_{n\ne m}^{\infty}T_{n}^{2}T_{m}\\\left(\sum_{n=1}^{\infty}T_{n}\right)^{3}&=&\sum_{n=1}^{\infty}T_{n}^{3}+3\sum_{n\ne m}^{\infty}T_{n}^{2}T_{m}+6\sum_{n\ne m\ne l}^{\infty}T_{n}T_{m}T_{l}\\&=&3\left(\sum_{n=1}^{\infty}T_{n}\right)\left(\sum_{n=1}^{\infty}T_{n}^{2}\right)+6\sum_{n\ne m\ne l}^{\infty}T_{n}T_{m}T_{l}-2\sum_{n=1}^{\infty}T_{n}^{3}\\\sum_{n=1}^{\infty}T_{n}^{3}&=&\frac{3\left(\sum_{n=1}^{\infty}T_{n}\right)\left(\sum_{n=1}^{\infty}T_{n}^{2}\right)+6\sum_{n\ne m\ne l}^{\infty}T_{n}T_{m}T_{l}-\left(\sum_{n=1}^{\infty}T_{n}\right)^{3}}{2}\\&=&\frac{3\times\frac{1}{6}\times\frac{1}{90}+6\times\frac{1}{7!}-\left(\frac{1}{6}\right)^{3}}{2}\\&=&\frac{1}{945}\\\sum_{n=1}^{\infty}\frac{1}{n^{6}\pi^{6}}&=&\sum_{n=1}^{\infty}T_{n}^{3}\\\sum_{n=1}^{\infty}\frac{1}{n^{6}}&=&\frac{\pi^{6}}{945}
+\end{eqnarray*}
+$$
+​	为了简单起见，我们可以定义一些中间变量。
+$$
+\begin{eqnarray*}S_{k}&=&\sum_{n=1}^{\infty}T_{n}^{k}\\S_{k,l}&=&\sum_{n\ne m}^{\infty}T_{n}^{k}T_{m}^{l}\end{eqnarray*}
+$$
+​	所以上述求解过程可以简化如下
+$$
+\begin{eqnarray*}
+S_{1}S_{2}&=&S_{3}+S_{2,1}\\S_{1}^{3}&=&S_{3}+3S_{2,1}+6S_{1,1,1}\\&=&3S_{1}S_{2}+6S_{1,1,1}-2S_{3}\\S_{3}&=&\frac{3S_{1}S_{2}+6S_{1,1,1}-S_{1}^{3}}{2}\\&=&\frac{1}{945}
+\end{eqnarray*}
+$$
+所有正整数的倒数8次方和
+$$
+\begin{eqnarray*}
+S_{1}^{4}&=&S_{4}+4S_{3,1}+6S_{2,2}+12S_{2,1,1}+24S_{1,1,1,1}\\S_{1}S_{3}&=&S_{4}+S_{3,1}\\S_{2}^{2}&=&S_{4}+2S_{2,2}\\S_{1}S_{1,1,1}&=&4S_{1,1,1,1}+S_{2,1,1}\\S_{1}^{4}&=&S_{4}+4\left(S_{1}S_{3}-S_{4}\right)+3\left(S_{2}^{2}-S_{4}\right)+12\left(S_{1}S_{1,1,1}-2S_{1,1,1,1}\right)\\S_{4}&=&\frac{12\left(S_{1}S_{1,1,1}-2S_{1,1,1,1}\right)+4S_{1}S_{3}+3S_{2}^{2}-S_{1}^{4}}{6}\\&=&\frac{\frac{12}{6\times7!}-\frac{24}{9!}+\frac{4}{6\times945}+\frac{3}{8100}-\frac{1}{1296}}{6}\\&=&\frac{1}{9450}\\\sum_{n=1}^{\infty}\frac{1}{n^{8}}&=&\frac{\pi^{8}}{9450}
 \end{eqnarray*}
 $$
 
 
-​	当n=3的时候，就能得到上述等式。
-
-### 等差数列推广
-
-​	在此基础之上，我们可以做适当的推广。
+​	小结一下，从平方到8次方和，我们可以做一个推广到所有偶数次方的简单联想
 $$
 \begin{eqnarray*}
-a_{n}&=&a_{0}+\left(n-1\right)d\\&=&\sqrt{d^{2}+a_{n-1}a_{n+1}}\\&=&\sqrt{d^{2}+a_{n-1}\sqrt{d^{2}+a_{n}\sqrt{d^{2}+a_{n+1}a_{n+3}}}}\\&=&\sqrt{d^{2}+a_{n-1}\sqrt{d^{2}+a_{n}\sqrt{d^{2}+\cdots}}}
+\sum_{n=1}^{\infty}\frac{1}{n^{2}}&=&\frac{\pi^{2}}{6}\\\sum_{n=1}^{\infty}\frac{1}{n^{4}}&=&\frac{\pi^{4}}{90}\\\sum_{n=1}^{\infty}\frac{1}{n^{6}}&=&\frac{\pi^{6}}{945}\\\sum_{n=1}^{\infty}\frac{1}{n^{8}}&=&\frac{\pi^{8}}{9450}\\\sum_{n=1}^{\infty}\frac{1}{n^{2m}}&=&c\pi^{2m}?
 \end{eqnarray*}
 $$
-当$a_0 = 2,d = 2, n = 2$的时候，可以得到如下等式：
-$$
-\sqrt{4+2\sqrt{4+4\sqrt{4+6\sqrt{4+\cdots}}}}=4
-$$
 
 
-### 计算$\pi$ 的公式
-
-​	当然，除了这种相对简单的公式之外，拉马努金还给出了不少鬼斧神工一般的公式。比如计算$\pi$的一个公式
-$$
-\frac{1}{\pi}=\frac{1}{53360\sqrt{640320}}\sum_{n=0}^{\infty}(-1)^{n}\frac{(6n)!}{n!^{3}(3n)!}\times\frac{13591409+545140134n}{640320^{3n}}
-$$
-​	这个公式可以用来计算$\pi$的数值，而且收敛很快。比如，当n=0时，这个公式的计算精度就可以达到小数点后13位。
-$$
-\begin{eqnarray*}
-\pi & \approx & \frac{53360\sqrt{640320}}{13591409}\\
- & \approx & 3.141592653589734\cdots\\
-\pi & = & 3.1415926535897932384626\cdots
-\end{eqnarray*}
-$$
-​	
-
-## 超运算
-
-### 超运算的表示
-
-​	我们学过加法，学过乘法，也学过指数运算。每一种运算都是对前一种的抽象表示。比如，我们如果要表示10000个1相加，用加法表示是费力不讨好的。用乘法表示就非常简单。再比如，要表示10000个2相乘，只需要表示成$2^{10000}$即可，不需要真的写出10000个2。现在有个问题，是否有更多更抽象的运算呢？答案是有的，这就是超运算。原理是对算符进行迭代，如下所示
-$$
-\begin{eqnarray*}
-a\left[1\right]n & = & a+n\\
-a\left[2\right]n & = & \underbrace{a\left[1\right]\left\{ a\left[1\right]\left\{ \cdots\left[1\right]a\right\} \right\} }_{n}\\
- & = & a\times n\\
-a\left[3\right]n & = & {\underbrace{a\left[2\right]\left\{ a\left[2\right]\left\{ \cdots\left[2\right]a\right\} \right\} }_{n}}\\
- & = & a^{n}\\
-a\left[4\right]n & = & {\underbrace{a\left[3\right]\left\{ a\left[3\right]\left\{ \cdots\left[3\right]a\right\} \right\} }_{n}}\\
- & = & a^{a^{a^{\cdot^{\cdot^{\cdot^{a}}}}}}\\
-a\left[m+1\right]n & = & {\underbrace{a\left[m\right]\left\{ a\left[m\right]\left\{ \cdots\left[m\right]a\right\} \right\} }_{n}}
-\end{eqnarray*}
-$$
-​	换句话说，加法是一阶超运算，乘法是二阶，指数是三阶。
-
-### Knuth箭头$\uparrow$ 
-
-​	与之相对应的，还有Knuth箭头，原理和超运算大同小异，只不过是用$\uparrow$表示的。
-$$
-\begin{eqnarray*}
-a\uparrow n&=&a^{n}\\
-a\uparrow\uparrow n&=&\underbrace{a\uparrow\left\{ a\uparrow\left\{ \cdots\uparrow a\right\} \right\} }_{n}\\
-&=&a^{a^{a^{\cdot^{\cdot^{\cdot^{a}}}}}}\\a\uparrow\uparrow\uparrow n&=&\underbrace{a\uparrow\uparrow\left\{ a\uparrow\uparrow\left\{ \cdots\uparrow\uparrow a\right\} \right\} }_{n}\\
-\cdots&\cdots&\cdots
-\end{eqnarray*}
-$$
-​	我们很容易明白，一个Knuth箭头是3阶超运算，或者说n个Knuth箭头是n+2阶超运算。
-
-### 葛立恒数
-
-​	我们可以用Knuth箭头表示一些超级复杂的数，复杂到不知道有多少位，比如葛立恒数（Graham's number）。
-$$
-\begin{eqnarray*}
-g_{1}&=&3\uparrow\uparrow\uparrow\uparrow3\\g_{2}&=&3\underbrace{\uparrow\uparrow\cdots\cdots\uparrow\uparrow}_{g_{1}}3\\g_{n+1}&=&3\underbrace{\uparrow\uparrow\cdots\cdots\uparrow\uparrow}_{g_{n}}3\\\text{Graham}&=&g_{64}\\&=&3\underbrace{\uparrow\uparrow\cdots\cdots\cdots\cdots\uparrow\uparrow}_{3\underbrace{\uparrow\uparrow\cdots\cdots\cdots\uparrow\uparrow}_{\underbrace{\begin{array}{ccc}
-\quad & \vdots & \quad\\
-\quad & \vdots & \quad
-\end{array}}_{3\underbrace{\uparrow\uparrow\cdots\cdots\uparrow\uparrow}_{3\uparrow\uparrow\uparrow\uparrow3}3}}3}3
-\end{eqnarray*}
-$$
-​	葛立恒数一共64层箭头，虽然不知道有多少位，但是最后几位是可以计算的。
-
-
+​	对于更加一般的偶数次方和，需要用到伯努利数（Bernoulli number），且听下回分解。
 

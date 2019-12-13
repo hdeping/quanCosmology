@@ -1,67 +1,142 @@
-# 爱是一道光
 
-​	这是彷徨随想系列的第25篇。
+# 公式的世界
 
+​	这是彷徨随想系列的第26篇。
 
+​	
 
-​	这是我写的第二段小故事，纯粹为了自high。我从没受到过写作训练，可是各种杂七杂八的书也算看了不少。我有一种感觉，无论多长的故事都可以用一个或者几个简单的内核去概括。所以我在尝试用这种方法去写作。写开一个脑洞，可大可小，然后在此基础之上添加枝干和细节。最终总可以形成一段故事，虽然，这个故事可能会非常难看。孰能生巧，我认为写作能力是值得投资的，除了练习也没有别的办法。以下开始这段故事，我把它看做是一封换了花样的情书。
-
-
-
-## 我与谷阳星
-
-​	我出生在谷阳星，童年在谷阳星的汤谷岛上长大。在我七八岁的时候，在放鲸之余，我喜欢看《标准宇宙地理图志》。家里圈养着一群独角鲸，虽然有一群机器人帮忙打理，可总有一些情况需要手动操作。经常有独角鲸因碰触到电磁栏网而被电晕，我需要去看它的生理投影图。我不喜欢我爸让我干的这份差事，因为这让我不得不放下手里的地理图志。而且我不喜欢独角鲸，一群一声不吭只知道吃乌贼的家伙。我总是后悔当初看上了这些家伙的独角。我还给了弟弟两颗银河珠，让他把独角鲸让给我，他自己去养座头鲸。当然，我更不喜欢座头鲸，那群笨重的大家伙总是发出听来毫无意义的噪音。没想到我弟弟甘之若饴，还嘲笑我没有音乐细胞。
+​	今天介绍几个公式。
 
 
 
-​	老爸总是对我们说：“穷人的孩子早当家”。每周，我要花一个上午的时间看生理投影图。没发现问题可以放着独角鲸不管，它会自己醒来。发现问题则要指挥机器人对可怜的鲸鱼进行治疗。这对那个年纪的我来说真是一件苦差事。好在，有地理图志陪我。我慢慢开始知道星系，星云，中子星，脉冲星，黑洞等等的分布。最重要的，我知道了人类的母星，地球。
+## 傅里叶变换（Fourier transform）
+
+​	傅里叶变换在科学计算中十分常见。最常见的应用之一是声学信号的处理。声波信号，比如人类的语音，通常是各类频率信号的振幅叠加。通过傅里叶变换，我们可以把信号中各个频率的成分分离出来。
+$$
+F(\color{blue}{k}\color{black})=\int_{-\infty}^{\infty}e^{-i\color{blue}{k}\color{red}{t}}f(\color{red}{t})dt
+$$
 
 
+## 麦克斯韦电磁场方程组（Maxwell's Field Equations）
 
-​	地理图志给我的世界开启了新的大门。我知道了自己所在的谷阳星是一个穷乡僻壤，距离宇宙边缘也只有100万光年。谷阳星的上空都能看到宇宙边缘不断有星云坍缩成新的恒星。那时候起，我就决定我要离开这里，走向远方。18岁那年，我考上了位于浑星的浑河书院，那是距离谷阳星2800万光年的地方。好在K666次星云穿梭飞船刚刚开通，花费38个小时就可以到达。去浑星的前一天，老爸喝得醉醺醺的。那段时间他一直怪我离家太远，抱怨浑星太冷。在饭桌上，他对我说：“不求你飞黄腾达，知足就好”。我控制住了自己的泪水，淡淡地说一声：“我知道”。
-
-
-
-## 爱是一道光
-
-​	19岁那年，我在书院外兼职，赚到了人生中第一桶金。那是520.1314个宇宙币，足够我半年的生活费。那时候星际互联网刚连接到浑星。我曾经在地理图志上看到一段对地球人的描述，“地球虽然是宇宙文明的发源地，但是地球人一点儿也不理性，总是愚昧地相信一些虚无缥缈的东西”。我从星联网上第一次证实了这段话。我在一个婚恋网站上看到一段请求，一个叫小黄的ID希望设计一个求婚文案，报酬就是520.1314个宇宙币。地球人总在为自身行为赋予着各种毫无必要的意义。当然，这给了我发挥创造的机会。可我还是想不明白，地球用“爱情”包裹着生殖冲动，却又在“爱情”里挣扎，苛责，撒谎与欺骗。不论如何，我想要这笔钱。
-
-
-
-​	我决定用各种各样的方式镶嵌“5201314”。我知道这一串数字毫无意义，但是它可能会给我带来胜利。我在小黄的内容后面加了一个随机数520131456572066746，这样，信息变成“亲爱的小阮，我愿意爱你爱到宇宙的尽头。小黄。520131456572066746”。随机数使得这串信息的sha-256 hash值是“5201314......”，长度为64的hash值前七位是5201314。
-
-
-
-​	我用波长为0.5201314纳米的X射线，对这段信息进行编码。花了0.1314个宇宙币，我在星联网上租了一架电磁波发射器。这架发射器离银河系中心黑洞人马座A*最近。从价格可以看出，这架发射器已经风烛残年。在黑洞附近那种恶劣的环境中，它早已被粒子流破坏得千疮百孔。果然，发射完这道爱的光束之后，它完成了自己所有的使命，老态龙钟的身躯被黑洞喷流粉碎。小黄的爱逐渐地靠近黑洞，然后被黑洞捕获。黑洞的表面积因此大了一点，比小黄的爱还要多一点点。根据黑洞全息原理，这一束光携带的信息不会丢失，它会永远地留在黑洞的表面。爱不再是一道光，爱在黑洞表面永恒流转。
-
-
-
-​	最终，我的方案从众多方案中脱颖而出，我赢得了520.1314个宇宙币。扣除0.1314个宇宙币的成本，净收入520。我不知道小黄的命运如何，或许将要迎来婚姻的监牢，也或许迎来的是小阮的一巴掌。这些我都管不着，我只记得，收到钱的那天，浑星下雪了。浑星的海面开始结冰，我即将迎来生命中的第一次环球之旅。
-
-
-
-## 后记
-
-宇宙不灭
-
-黑洞不死
-
-对你的爱绵延不绝
-
-直至宇宙尽头
+以下是高斯单位下电磁场方程组的积分形式。
+$$
+\begin{eqnarray*}
+\oiint_{\partial\Omega}\mathbf{E}\cdot\mathrm{d}\mathbf{S} & = & 4\pi\iiint_{\Omega}\rho\mathrm{d}V\\
+\oiint_{\partial\Omega}\mathbf{B}\cdot\mathrm{d}\mathbf{S} & = & 0\\
+\oint_{\partial\Sigma}\mathbf{E}\cdot\mathrm{d}\boldsymbol{\ell} & = & -\frac{\mathrm{d}}{\mathrm{d}t}\iint_{\Sigma}\mathbf{B}\cdot\mathrm{d}\mathbf{S}\\
+\oint_{\partial\Sigma}\mathbf{B}\cdot\mathrm{d}\boldsymbol{\ell} & = & \mu_{0}\iint_{\Sigma}\mathbf{J}\cdot\mathrm{d}\mathbf{S}+\mu_{0}\varepsilon_{0}\frac{\mathrm{d}}{\mathrm{d}t}\iint_{\Sigma}\mathbf{E}\cdot\mathrm{d}\mathbf{S}
+\end{eqnarray*}
+$$
+​	电磁场方程组还可以有跟积分形式等价的微分形式
+$$
+\begin{eqnarray*}
+\nabla\cdot\mathbf{E} & = & 4\pi\rho\\
+\nabla\cdot\mathbf{B} & = & 0\\
+\nabla\times\mathbf{E} & = & -\frac{1}{c}\frac{\partial\mathbf{B}}{\partial t}\\
+\nabla\times\mathbf{B} & = & \frac{1}{c}\left(4\pi\mathbf{J}+\frac{\partial\mathbf{E}}{\partial t}\right)
+\end{eqnarray*}
+$$
 
 
 
 
+## 爱因斯坦质能方程（Einstein‘s Mass Energy Relation）
+
+​	爱因斯坦的质能方程构建了质量与能量的等价性。其形式十分简单
+$$
+E=mc^2
+$$
+​	其推导过程也不算难，完全在初等微积分范围内
+$$
+\begin{eqnarray*}
+F & = & \frac{dp}{dt}=\frac{d(mv)}{dt}\\
+m & = & \frac{m_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}\\
+T & = & \int_{0}^{s}Fds\\
+ & = & \int_{0}^{t}\frac{d(mv)}{dt}\cdot vdt\\
+ & = & \int_{0}^{v}vd(mv)\\
+ & = & \int_{0}^{v}vd\left(\frac{m_{0}v}{\sqrt{1-\frac{v^{2}}{c^{2}}}}\right)\\
+ & = & \frac{m_{0}v^{2}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}-\int_{0}^{v}\frac{m_{0}v}{\sqrt{1-\frac{v^{2}}{c^{2}}}}dv\\
+ & = & mv^{2}+\int_{0}^{v}m_{0}c^{2}d\left(\sqrt{1-\frac{v^{2}}{c^{2}}}\right)\\
+ & = & mv^{2}+m_{0}c^{2}\sqrt{1-\frac{v^{2}}{c^{2}}}-m_{0}c^{2}\\
+ & = & mv^{2}+mc^{2}\left(1-\frac{v^{2}}{c^{2}}\right)-m_{0}c^{2}\\
+ & = & mc^{2}-m_{0}c^{2} \\
+ & = & E - E_0
+\end{eqnarray*}
+$$
+$m_0$指的是物体的静止质量，c是光速。
+
+
+
+## 爱因斯坦场方程（Einstein's Field Equatioin）
+
+爱因斯坦的场方程在形式上十分简单
+$$
+G_{\mu \nu }=8\pi T_{\mu \nu }
+$$
+各个物理量的名词解释如下
+
+- $G_{\mu\nu}$ is the Einstein tensor which is given as  $G_{\mu \nu }  = R_{\mu \nu } - \frac{1}{2}g_{\mu \nu }R$
+
+- $R_{\mu\nu}$ is the Ricci curvature tensor
+
+- R is the scalar curvature
+
+- $g_{\mu\nu}$  is the metric tensor
+
+  g是度规张量，可以用一个矩阵表示。比如，对于一个球面而言，其参数方程和度规张量分别是
+  $$
+  \begin{eqnarray*}
+    x &= &r\sin\theta\cos\phi \\
+    y &= &r\sin\theta\sin\phi \\
+    z &= &r\cos\theta         \\
+    g&=&\left[\begin{array}{ccc}
+  1 & 0 & 0\\
+  0 & r^{2} & 0\\
+  0 & 0 & r^{2}\sin^{2}\theta
+  \end{array}\right] 
+  \end{eqnarray*}
+  $$
+
+- $T_{\mu\nu}$  is the stress-energy tensor
+
+  
+
+要想求解这个场方程，需要用到Newman-Penrose形式，具体如下：
+
+$$
+\begin{array}
+{l}{\Psi_{0}=-C_{a b c d} \ell^{a} m^{b} \ell^{c} m^{d}} \\ 
+{\Psi_{1}=-C_{a b c d} \ell^{a} n^{b} \ell^{c} m^{d}} \\ 
+{\Psi_{2}=-C_{a b c d} \ell^{a} m^{b} \bar{m}^{c} n^{d}} \\ 
+{\Psi_{3}=-C_{a b c d} \ell^{a} n^{b} \bar{m}^{c} n^{d}} \\ 
+{\Psi_{4}=-C_{a b c d} n^{a} \bar{m}^{b} n^{c} \bar{m}^{d}}
+\end{array}
+$$
+
+​	其中，$C_{abcd}$是外尔张量（Weyl Tensor），$[\ell^{\mu},n^{\mu},m^{\mu},\bar{m}^{\mu}]$ 是 Newman-Penrose null tetrad。
+$$
+\begin{aligned} 
+\rho &=m^{\mu} \bar{m}^{\nu} \nabla_{\nu} \ell_{\mu} \\ 
+\lambda &=n^{\mu} \bar{m}^{\nu} \nabla_{\nu} \bar{m}_{\mu} \\ 
+\epsilon &=2^{-1} \cdot \ell^{\nu}\left(n^{\mu} \nabla_{\nu} \ell_{\mu}+m^{\mu} \nabla_{\nu} \bar{m}_{\mu}\right) \\ 
+\mu &=n^{\mu} m^{\nu}\left(n^{\mu} \nabla_{\nu} \ell_{\mu}+m^{\mu} \nabla_{\nu} \bar{m}_{\mu}\right) \\ 
+\sigma &=m^{\mu} m^{\nu} \nabla_{\nu} \bar{m}_{\mu} \\ 
+\gamma &=2^{-1} \cdot n^{\nu}\left(n^{\mu} \nabla_{\nu} \ell_{\mu}+m^{\mu} \nabla_{\nu} \bar{m}_{\mu}\right) \\ 
+\tau &=2^{-1} \cdot m^{\nu}\left(n^{\mu} \nabla_{\nu} \ell_{\mu}+m^{\mu} \nabla_{\nu} \bar{m}_{\mu}\right) \\ 
+\nu &=2^{-1} \cdot m^{\nu}\left(n^{\mu} \nabla_{\nu} \ell_{\mu}+m^{\mu} \nabla_{\nu} \bar{m}_{\mu}\right) \\ 
+\pi &=2^{\mu} \ell^{\nu} \nabla_{\nu} \bar{m}_{\mu} \\ 
+\kappa &=m^{\mu} \ell^{\nu} \nabla_{\nu} \ell_{\mu} \\
+\alpha &=2^{-1} \cdot \bar{m}^{\nu}\left(n^{\mu} \nabla_{\nu} \ell_{\mu}+m^{\mu} \nabla_{\nu} \bar{m}_{\mu}\right) \end{aligned}
+$$
 
 
 
 
 
+## 参考文献
 
+1. https://en.wikipedia.org/wiki/Fourier_transform
+2. 2011, Nerozi, A new approach to the Newman-Penrose formalism.
+3. https://docs.einsteinpy.org/en/stable/metric.html
 
-
-
-计算5201314 hash的代码如下：
-
-https://github.com/hdeping/mytools/blob/master/mycollections/Love.py
